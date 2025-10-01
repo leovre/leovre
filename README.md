@@ -23,7 +23,8 @@ Here you’ll find projects that reflect my curiosity, problem-solving, and dedi
 - **Other:** Git, Docker, REST APIs  
 
 ---
-### Contact Me! 
+
+## 📫 Lets Connect! 
 
 Email: Leonardovrodriguez246@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/leo-dev24/
